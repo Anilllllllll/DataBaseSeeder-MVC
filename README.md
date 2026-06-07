@@ -1,5 +1,4 @@
-DataBaseSeeder-MVC
-
+...DataBaseSeeder  MVC
 A simple MVC-based database seeder application built with Laravel that automates inserting and managing sample data for development and testing environments using a clean Model-View-Controller architecture.
 
 🚀 Features
